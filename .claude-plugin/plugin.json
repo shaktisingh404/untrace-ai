@@ -20,7 +20,9 @@
   ],
   "skills": "./skills/",
   "commands": "./commands/",
-  "agents": "./agents/",
+  "agents": [
+    "./agents/untrace-defender.md"
+  ],
   "hooks": "./hooks/hooks.json",
   "mcpServers": "./.mcp.json"
 }
